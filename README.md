@@ -1,2 +1,2 @@
 # ubuntu-gnustep-wallpapers
-Wallpapers for Ubuntu GNUStep Remix
+Wallpapers for Ubuntu GNUstep Remix
